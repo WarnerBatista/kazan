@@ -1,0 +1,13 @@
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.Form1.resources
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.Properties.Resources.resources
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.csproj.GenerateResource.cache
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.csproj.CoreCompileInputs.cache
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\bin\Debug\KazanWF.exe.config
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\bin\Debug\KazanWF.exe
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\bin\Debug\KazanWF.pdb
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.csprojAssemblyReference.cache
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.csproj.CopyComplete
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.exe
+C:\Users\warne\source\repos\KazanExpedicao\KazanWF\obj\Debug\KazanWF.pdb
